@@ -1,0 +1,10 @@
+name: CatMouse
+version: 1.0
+author: MakiBearDY
+
+main: fr.makibear.CatMouse
+depend: [LC-API]
+commands:
+  cm:
+    description: CatMouse command
+    usage: /<command>
